@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WesternOverhaul", "WesternOverhaul\WesternOverhaul.csproj", "{4F34AC6F-89B9-459D-8621-93034FD4C28C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F34AC6F-89B9-459D-8621-93034FD4C28C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F34AC6F-89B9-459D-8621-93034FD4C28C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F34AC6F-89B9-459D-8621-93034FD4C28C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F34AC6F-89B9-459D-8621-93034FD4C28C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CB74265E-526A-438A-A5E2-88ACDE58E47F}
+	EndGlobalSection
+EndGlobal

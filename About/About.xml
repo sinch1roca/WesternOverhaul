@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Western Overhaul</name>
+  <author>sinchiroca</author>
+  <supportedVersions>
+    <li>1.4</li>
+  </supportedVersions>
+  <packageId>Sinchiroca.WesternOverhaul</packageId>
+  <description>
+    This mod is designed to overhaul the game in order for a full submersive western experience
+  </description>
+</ModMetaData>

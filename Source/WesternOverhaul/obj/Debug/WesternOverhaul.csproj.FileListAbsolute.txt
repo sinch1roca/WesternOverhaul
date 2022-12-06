@@ -1,0 +1,6 @@
+C:\Users\Marco\Documents\MarcoRepos\WesternOverhaul\WesternOverhaul\Assemblies\WesternOverhaul.dll
+C:\Users\Marco\Documents\MarcoRepos\WesternOverhaul\WesternOverhaul\Assemblies\UnityEngine.CoreModule.dll
+C:\Users\Marco\Documents\MarcoRepos\WesternOverhaul\WesternOverhaul\obj\Debug\WesternOverhaul.csproj.AssemblyReference.cache
+C:\Users\Marco\Documents\MarcoRepos\WesternOverhaul\WesternOverhaul\obj\Debug\WesternOverhaul.csproj.CoreCompileInputs.cache
+C:\Users\Marco\Documents\MarcoRepos\WesternOverhaul\WesternOverhaul\obj\Debug\WesternOverhaul.csproj.CopyComplete
+C:\Users\Marco\Documents\MarcoRepos\WesternOverhaul\WesternOverhaul\obj\Debug\WesternOverhaul.dll
